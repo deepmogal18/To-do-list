@@ -6,15 +6,12 @@ Features
 
 Add tasks to the list
 
-Countdown timer (30 seconds) to complete each task
-
-Automatic strikethrough when the timer reaches zero
 
 Delete tasks manually
 
 User-friendly and visually appealing UI
 
-Technologies Used
+Technologies Used :
 
 HTML for structure
 
