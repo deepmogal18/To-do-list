@@ -59,16 +59,10 @@ li {
 }
 
 .delete {
-  background: red;
+  background: rgb(3, 221, 255);
   color: white;
   border: none;
-  padding: 3px 7px;
+  padding: 1px 3px;
   cursor: pointer;
-  border-radius: 5px;
-  font-size: 0.8em;
-}
-
-.timer {
-  font-size: 0.9em;
-  color: #555;
+  border-radius: 1px;
 }
